@@ -1,0 +1,4 @@
+is(xor(Mr. Ortiz, Mr. Kirk), xor(May 5th, Sinful Sips))
+after(Books and More, Mr. Kirk, 3)
+is(May 11th, xor(Frank's Figs, Mr. Ortiz))
+is(xor(May 8th, Frank's Figs), xor(Mr. Austin, Mr. Kirk))

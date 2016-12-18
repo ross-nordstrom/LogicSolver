@@ -1,0 +1,5 @@
+not(153 ft, 85 year, Roger's Oak)
+is(Zeke's Spruce, 94 year)
+is(Evan's Fir, Zeke's Spruce)
+is(Evan's Fir, Roger's Oak)
+is(Evan's Fir, xor(94 year, 79 year))

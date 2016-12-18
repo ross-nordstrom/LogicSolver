@@ -1,0 +1,6 @@
+is(Henrietta, Odyssey)
+is(Darryl, xor(April, July))
+is(March, xor(Escape, Henrietta))
+before(Beulah, Liberty, 2 months)
+after(Yvonne, Serenity, 1 month)
+not(Orion, Beulah, Henrietta, July, March)

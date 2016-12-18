@@ -1,0 +1,4 @@
+older(Merlin, Bubba)
+is(Merlin, 10.2 feet)
+not(Bubba, 10, 14.0 feet)
+is(Barnabas, 12.0 feet)

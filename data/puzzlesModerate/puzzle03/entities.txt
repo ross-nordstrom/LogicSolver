@@ -1,0 +1,5 @@
+bridges, types, lengths
+
+Avery Bridge, Bay Bridge, Gorem Bridge, North Bridge
+cantilever, girder, suspension, truss
+8500 ft, 10000 ft, 11500 ft, 13000 ft

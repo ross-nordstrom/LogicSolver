@@ -1,0 +1,4 @@
+is(Berkshire, Hampshire)
+more(Essex, Charles City)
+is(xor(28000, 37000), xor(Essex, Luther))
+is(Quasqueton, Nantucket)

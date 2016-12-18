@@ -1,0 +1,4 @@
+is(Old Jarvis, Roger's Oak)
+shorter(85, 94, 6)
+is(79, Nolan's Pine)
+is(Roger's Oak, 147 ft.)

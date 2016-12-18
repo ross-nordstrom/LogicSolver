@@ -1,0 +1,5 @@
+prices (dollars), items, locations
+
+$250, $325, $400, $475
+Cannonball, diamond ring, Earring, silver coin
+Burr Woods, Colbert Run, Gillis Park, Heffen Lane

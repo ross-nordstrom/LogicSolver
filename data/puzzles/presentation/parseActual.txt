@@ -1,0 +1,4 @@
+is(Fatal Sheen, xor(2, Gabby Jones))
+is(xor(Gabby Jones, Virgil Katz), xor(5, Fatal Sheen))
+is(Bold Service, xor(3, 5))
+is(Bold Service, Adrienne Day)

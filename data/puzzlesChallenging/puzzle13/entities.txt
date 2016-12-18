@@ -1,0 +1,5 @@
+names, presidents, lengths
+
+Andy, Ed, Georgia, Loretta
+Coolidge, Monroe, Nixon, Van Buren
+5 minutes, 8 minutes, 11 minutes, 14 minutes

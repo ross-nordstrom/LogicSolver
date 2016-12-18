@@ -1,0 +1,5 @@
+Scores, chefs, dishes
+
+42, 49, 56, 63
+Bertha, Hattie, Luther, Wade
+cajun chili, cashew tofu, smoked pork, turkey soup

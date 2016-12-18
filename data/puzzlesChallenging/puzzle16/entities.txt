@@ -1,0 +1,5 @@
+writers, origins, year sent
+
+Marvin, Robert, Victor, Warren
+Bournemouth, Penzance, Plymouth, Torquay
+1962, 1969, 1976, 1983

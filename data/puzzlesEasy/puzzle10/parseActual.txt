@@ -1,0 +1,4 @@
+is(Preston, xor(Texas, 109))
+not(112, Alaska, Ernesto, Preston)
+is(Ernesto, Texas)
+older(Olivia, Virginia, 1)

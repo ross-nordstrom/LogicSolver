@@ -1,0 +1,19 @@
+$ ./parse.py -i puzzles/game3
+link-grammar: Info: Dictionary found at /usr/share/link-grammar/en/4.0.dict
+
+1. The team that won 2 silver medals ended the games with somewhat more gold medals than the team that won 12 silver medals.
+x  is(2 silver, 12 silver)  (Actual)
+   more(2 silver, 12 silver, gold)   (Expected)
+2. The squad that won 12 silver medals ended the games with 2 more gold medals than the team from Paraguay.
+x  is(2 silver, 12 silver, Paraguay)    (Actual)
+   more(12 silver, Paraguay, 2 gold)    (Expected)
+3. The squad from Turkmenistan finished with 4 gold medals.
+x  Failed to parse any linkages (tried 5)!
+   is(Turkmenistan, 4 gold)    (Expected)
+4. The team from Russia ended with 12 silver medals.
+✓  is(Russia, 2 silver)
+5. The team that won 8 silver medals ended the games with somewhat more gold medals than the team that won 1 silver medal.
+x  is(1 silver, 8 silver)   (Actual)
+   more(8 silver, 1 silver, gold)    (Expected)
+
+20% success -  1 of 5 total statements

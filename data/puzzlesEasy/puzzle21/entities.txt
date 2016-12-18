@@ -1,0 +1,5 @@
+prices (dollars), nectars, providers
+
+$5.50, $6.50, $7.50, $8.50
+alfalfa, lemon blossom, sage, sourwood
+Jim Joyner, Keith Koch, Linda Lynn, Midge Mintz

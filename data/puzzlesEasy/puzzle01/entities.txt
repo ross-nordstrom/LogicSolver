@@ -1,0 +1,5 @@
+sales, bands, months
+
+1.2 million, 1.3 million, 1.4 million, 1.5 million 
+Audio Array, Jagged Knee, Lip Savage, Sodium Green
+January, June, August, September

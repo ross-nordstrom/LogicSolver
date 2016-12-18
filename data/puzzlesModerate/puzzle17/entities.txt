@@ -1,0 +1,5 @@
+player, gambits, games
+
+Luis, Mae, Rose, Tara
+Evans Gambit, Giuoco Start, Reti Opening, Torre Attack
+first, second, third, fourth

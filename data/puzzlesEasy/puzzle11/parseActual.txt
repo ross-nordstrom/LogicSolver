@@ -1,0 +1,5 @@
+is(Mt. Dawson, Kermit Kramer)
+is(Mt. Norman, 14470)
+is(Mt. Ingram, Gerry Gamble)
+is(14210, xor(Mt. Larsen, Irving Igor))
+is(Kermit Kramer, Mt. Ingram)

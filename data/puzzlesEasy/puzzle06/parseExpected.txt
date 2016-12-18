@@ -1,0 +1,5 @@
+is(Z-Free XL, 20000 BTUs)
+is(25000 BTUs, xor(Chiller Z, 375))
+not(Chiller Z, 570, 20000 BTUs)
+is(Binson C40, 440)
+less(10000 BTUs, 25000 BTUs)

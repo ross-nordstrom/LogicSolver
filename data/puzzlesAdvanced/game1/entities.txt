@@ -1,0 +1,5 @@
+names, majors, scholarships
+
+Anna, Delores, Lauren, Nettie
+Finance, German Poetry, Physics, Theology
+25000, 30000, 35000, 40000

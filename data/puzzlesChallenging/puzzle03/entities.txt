@@ -1,0 +1,5 @@
+mountains, climbers, heights
+
+Mt. Calhoun, Mt. Larsen, Mt. Sloan, Mt. York
+Art Aguilar, Chip Carson, Eddie English, Leonard Lara
+14210, 14340, 14470, 14600

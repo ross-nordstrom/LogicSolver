@@ -1,0 +1,5 @@
+Distances, planets, stars
+
+41 light years, 43 light years, 45 light years, 47 light years
+Istryn, Quael, Rodul, Vestor
+BDF 198, HV 491, MKP 427, PLC 120

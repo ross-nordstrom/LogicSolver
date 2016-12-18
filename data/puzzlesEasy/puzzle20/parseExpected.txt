@@ -1,0 +1,4 @@
+is(Lonnie, xor(whip spider, 60))
+is(Olga, xor(raft spider, 60))
+less(Anthony, wolf spider, 15)
+less(raft spider, Lonnie, 30)

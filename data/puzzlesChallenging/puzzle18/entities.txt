@@ -1,0 +1,5 @@
+names, ailments, times
+
+Dave, Kirk, Ronnie, Victor
+foot pain, hip pain, migraines, shingles
+9:00am, 10:00am, 11:00am, 12 noon

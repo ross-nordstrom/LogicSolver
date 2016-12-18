@@ -1,0 +1,4 @@
+is(Joann, Patrick)
+is(Nelson, Patrick)
+is(Frederick, 11:00am)
+is(xor(Ira, 9:00am), xor(Tyler, Patrick))

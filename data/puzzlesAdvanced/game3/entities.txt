@@ -1,0 +1,6 @@
+customers, first scoop, second scoop, places
+
+Charlie, Glenda, Jacqueline, Opal, Patrice, Yvette, Zachary
+banana, cherry, coconut, mango, peppermint, raspberry, vanilla
+chocolate, coffee, egg nog, lemon, rocky road, rum raisin, strawberry
+1st, 2nd, 3rd, 4th, 5th, 6th, 7th

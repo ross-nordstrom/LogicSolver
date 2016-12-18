@@ -1,0 +1,4 @@
+before(Greg, maroon, 2 minutes)
+is(24 minutes, orange)
+before(violet, Kelly, 1 minute)
+before(Herman, Patrick, 1 minute)

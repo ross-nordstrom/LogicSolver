@@ -1,0 +1,5 @@
+cities, counties, populations
+
+Charles City, Luther, Oakland Acres, Quasqueton
+Berkshire, Essex, Hampshire, Nantucket
+28000, 31000, 34000, 37000

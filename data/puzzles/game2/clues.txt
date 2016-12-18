@@ -1,0 +1,5 @@
+The October 8 delivery will be in the shape of a sailboat.
+The order shaped like a bowling pin will be delivered sometime before Mrs. Keller's cake.
+Mrs. Massey's cake will be delivered on October 8.
+The order shaped like a turtle is either Mrs. Becker's order or Mrs. Massey's cake.
+Mrs. Becker's cake will be delivered 1 day after the order shaped like a rocket ship.

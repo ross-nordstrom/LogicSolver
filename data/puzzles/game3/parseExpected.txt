@@ -1,0 +1,5 @@
+more(2 silver, 12 silver)
+more(12 silver, Paraguay, 2 gold)
+is(Turkmenistan, 4 gold)
+is(Russia, 12 silver)
+more(8 silver, 1 silver)

@@ -1,0 +1,4 @@
+is(xor(Victor, 1962), xor(Torquay, Penzance))
+after(Plymouth, Torquay, 14)
+after(Robert, Warren, 7)
+is(1969, xor(Warren, Bournemouth))

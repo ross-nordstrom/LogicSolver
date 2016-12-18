@@ -1,0 +1,4 @@
+The recipe that cooks at 325 degrees requires 10 minutes less baking time than the meatloaf.
+The chicken cutlet requires 5 minutes less baking time than the candied yams recipe.
+The mac and cheese requires 5 minutes less baking time than the dish that cooks at 340 degrees.
+The recipe that cooks at 325 degrees bakes somewhat longer than the recipe that cooks at 410 degrees.

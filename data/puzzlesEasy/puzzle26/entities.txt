@@ -1,0 +1,5 @@
+baking times (minutes), recipes, temperatures
+
+25 minutes, 30 minutes, 35 minutes, 40 minutes
+candied yams, chicken cutlet, mac and cheese, meatloaf
+325 degrees, 340 degrees, 350 degrees, 410 degrees

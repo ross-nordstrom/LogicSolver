@@ -1,0 +1,5 @@
+less(Tela G5, Nectron, 25 dollars)
+is(Lirios, xor(625, DM-5000))
+less(Lirios, Torvia, 25 dollars)
+not(G-290, 625, 550, Lirios)
+

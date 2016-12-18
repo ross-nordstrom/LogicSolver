@@ -1,0 +1,4 @@
+fewer(Ollie, 8 losses, 6)
+not(Diane DeNiro, 33 wins, 2 losses, 30 wins)
+is(xor(7 losses, 33 wins), xor(Annie Axel, Vicki))
+is(7 losses, xor(Vicki, 27 wins))

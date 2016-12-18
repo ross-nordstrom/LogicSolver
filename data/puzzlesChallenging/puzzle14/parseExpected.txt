@@ -1,0 +1,4 @@
+is(xor(2 GB, 512 GB), xor(Greg, Philip))
+smaller(Nathaniel, 3 GB, 256 GB)
+not(Kerry, 512 GB, 1 GB, 384 GB)
+is(2 GB, xor(Philip, 256 GB))

@@ -1,0 +1,4 @@
+before(Joann, Patrick)
+after(Nelson, Patrick, 2)
+is(Frederick, 11:00am)
+is(xor(Ira, 9:00am), xor(Tyler, Patrick))

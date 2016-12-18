@@ -1,0 +1,6 @@
+14,210, Mt. Dawson, Irving Igor
+14,340, Mt. Larsen, Hal Hudson
+14,470, Mt. Norman, Kermit Kramer
+14,600, Mt. Ingram, Gerry Gamble
+
+

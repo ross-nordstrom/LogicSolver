@@ -1,0 +1,4 @@
+more(silver coin, Colbert Run)
+more(cannonball, Heffen Lane, 75 dollars)
+less(silver coin, diamond ring, 150 dollars)
+is($400, Burr Woods)

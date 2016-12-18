@@ -1,0 +1,5 @@
+fewer(blue, Guy, 25 riders)
+is(Brett, xor(100 riders, purple))
+is(125 riders, pink)
+is(Isaac, purple)
+is(Guy, xor(100 riders, purple))

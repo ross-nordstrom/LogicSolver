@@ -1,0 +1,5 @@
+not(5 million, Beach Brouhaha, Rodney, Tonya)
+is(Tonya, xor(4 million, Happy Hermits))
+is(7 million, Happy Hermits)
+is(Daryl, You Otter Know)
+more(Daryl, Beach Brouhaha, 1 million)

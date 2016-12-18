@@ -1,0 +1,4 @@
+is(Vera, Moore Mansion)
+is(Space Needle, Arctic Building)
+is(Space Needle, Kate)
+is(Max, $15.50)

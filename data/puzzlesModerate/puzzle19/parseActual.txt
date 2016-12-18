@@ -1,0 +1,4 @@
+is(Disco Mania, Pinnefore)
+is(xor(1977, Tarco Inc), xor(Bowling Alley, Archer Quest))
+is(Dow Games, Bowling Alley)
+is(Tarco Inc, Pinnefore)

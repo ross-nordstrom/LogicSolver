@@ -1,0 +1,5 @@
+names, categories, years
+
+Ada Alvarez, Betty Brewer, Fay Ferguson, Mandy Marsh
+chemistry, economics, literature, medicine
+1964, 1968, 1972, 1976

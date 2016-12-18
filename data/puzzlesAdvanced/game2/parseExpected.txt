@@ -1,0 +1,7 @@
+is(xor(Dilbert Duke, Gil Gonzalez), xor(Oregon, 20))
+more(New Mexico, Belle Hart)
+is(17, xor(Glacier Grove, Ben Barron))
+not(Fred Fletcher, York River)
+is(14, Colorado)
+more(Oregon, York River, 3)
+not(Gil Gonzalez, New Mexico)

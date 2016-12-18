@@ -1,0 +1,4 @@
+not(Bai Yun, February, Tai Shan, January)
+before(Nan Sheng, Gao Gao, 2 months)
+is(xor(Den Ping, Bai Yun), xor(February, Tian Tian))
+is(Bai Yun, xor(March, January))

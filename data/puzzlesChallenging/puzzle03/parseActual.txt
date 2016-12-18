@@ -1,0 +1,4 @@
+is(Mt. Calhoun, Art Aguilar)
+is(Chip Carson, Mt. Sloan)
+taller(Mt. York, Mt. Calhoun, 260)
+is(xor(Eddie English, Mt. Larsen), xor(14600, 14210))

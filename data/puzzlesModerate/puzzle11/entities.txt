@@ -1,0 +1,5 @@
+customers, RAM, hard drives
+
+Fernando, Jack, Rex, Wade
+1 GB, 3 GB, 6 GB, 12 GB
+128 GB, 256 GB, 384 GB, 512 GB

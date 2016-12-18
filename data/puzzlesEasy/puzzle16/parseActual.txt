@@ -1,0 +1,2 @@
+is(La Palma, 1100 sq ft)
+not($1100/month, La Palma, Monticello, Eagle Grove)

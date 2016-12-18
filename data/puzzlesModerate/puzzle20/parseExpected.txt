@@ -1,0 +1,4 @@
+is(xor(Cate Carlson, Bev Baird), xor(9000, teacher))
+behind(academic, Gilda Gray, 1000 votes)
+not(Bev Baird, 9000, architect, 8500)
+is(Bev Baird, xor(9500, 8500))

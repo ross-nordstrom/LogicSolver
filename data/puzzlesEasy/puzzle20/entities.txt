@@ -1,0 +1,5 @@
+prices, winners, spiders
+
+45, 60, 75, 90
+Anthony, Lonnie, Olga, Tim
+raft spider, redback, whip spider, wolf spider

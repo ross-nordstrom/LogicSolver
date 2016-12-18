@@ -1,0 +1,4 @@
+is(Mae, Reti Opening)
+is(Giuoco Start, Luis)
+is(second, xor(Tara, Evans Gambit))
+is(Rose, Evans Gambit)

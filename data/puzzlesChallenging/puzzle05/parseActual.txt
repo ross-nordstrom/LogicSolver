@@ -1,0 +1,4 @@
+not(Eddie Evans, Gilda Gamble, 1075)
+not(billboard, 775, Gilda Gamble)
+fewer(radio spot, Julie Jordan)
+is(tv commercial, xor(Hal Hopkins, 775))

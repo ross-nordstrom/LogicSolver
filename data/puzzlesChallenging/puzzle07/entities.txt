@@ -1,0 +1,5 @@
+boxers, losses, wins
+
+Annie Axel, Diane DeNiro, Ollie, Vicki
+2 losses, 7 losses, 8 losses, 15 losses
+24 wins, 27 wins, 30 wins, 33 wins

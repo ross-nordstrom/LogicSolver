@@ -1,0 +1,5 @@
+times, runners, shirt colors
+
+21 minutes, 22 minutes, 23 minutes, 24 minutes
+Greg, Herman, Kelly, Patrick
+maroon, orange, silver, violet

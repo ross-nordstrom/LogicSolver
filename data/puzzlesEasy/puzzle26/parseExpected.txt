@@ -1,0 +1,4 @@
+less(325 degrees, meatload, 10 minutes)
+less(chicken cutlet, candied yams, 5 minutes)
+less(mac and cheese, 340 degrees, 5 minutes)
+longer(325 degrees, 410 degrees)

@@ -1,0 +1,5 @@
+writers, origins, year sent
+
+Amelia, Carmen, George, Olive
+Bournemouth, Brighton, Le Havre, Plymouth
+1962, 1969, 1976, 1983

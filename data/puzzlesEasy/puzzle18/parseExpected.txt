@@ -1,0 +1,5 @@
+is(second, #128)
+is(first, xor(#118, #126))
+is(third, xor(#126, Bridget))
+is(Ophelia, second)
+after(Stretch, Kermit, 2 places)

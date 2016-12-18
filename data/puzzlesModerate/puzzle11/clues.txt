@@ -1,0 +1,4 @@
+Of Wade's computer and Jack's build, one has a 128 GB hard drive and the other has 6 GB of RAM.
+Rex's build has a hard drive that is 256 GB larger than the build with 6 GB of RAM.
+Wade's system has a hard drive that is 128 GB larger than the system with 1 GB of RAM.
+Rex's system has 3 GB of RAM.

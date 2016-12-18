@@ -1,0 +1,5 @@
+longer(Teresa, Jake)
+more(Jake, Gizmo, 1 week)
+is(Buster, 8 weeks)
+is(9 weeks, Martha)
+is(6 weeks, xor(Martha, Odette))

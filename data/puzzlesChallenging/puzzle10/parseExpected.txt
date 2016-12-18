@@ -1,0 +1,3 @@
+is(xor(75 million, 78 million), xor(rotosaurus, $500))
+is(xor(pilodontus, $1250), xor(78 million, 69 million))
+is(xor($750, 75 million), xor(rotosaurus, verasaurus))

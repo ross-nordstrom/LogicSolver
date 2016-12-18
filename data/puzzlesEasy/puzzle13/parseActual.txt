@@ -1,0 +1,4 @@
+is(First Crescent, Kip Kerr)
+is(Citizen Trust, xor(7%, Kip Kerr))
+larger(Ule Underwood, Hudson Brook, 2 return)
+is(7%, Walter Wade)

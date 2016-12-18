@@ -1,0 +1,5 @@
+names, drinks, prices
+
+Irene, Oliver, Perry, Salvador
+iced tea, orange soda, root beer, water
+$4.99, $5.99, $6.99, $7.99

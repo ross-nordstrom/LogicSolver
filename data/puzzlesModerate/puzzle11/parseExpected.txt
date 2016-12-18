@@ -1,0 +1,4 @@
+is(xor(Jack, Wade), xor(128 GB, 6 GB))
+larger(Rex, 6 GB, 256 GB)
+larger(Wade, 1 GB, 128 GB)
+is(Rex, 3 GB)

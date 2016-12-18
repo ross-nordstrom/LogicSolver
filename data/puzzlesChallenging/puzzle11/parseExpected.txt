@@ -1,0 +1,5 @@
+before(Meadowgrove, Tall Pines)
+is(June 4th, xor(Hazelwood, Milbridge))
+is(xor(Milbridge, Iron Hill), xor(June 7th, June 4th))
+is(Upper Lake, xor(June 5th, Hazelwood))
+before(Defiance, Paradise, 2 days)

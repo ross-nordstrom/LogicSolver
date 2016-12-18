@@ -1,0 +1,5 @@
+candidates, professions, votes
+
+Bev Baird, Cate Carlson, Gilda Gray, Ida Ingram
+academic, architect, teacher, writer
+8500, 9000, 9500, 10000

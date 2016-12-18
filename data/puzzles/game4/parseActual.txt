@@ -1,0 +1,4 @@
+before(Fred Fleming, Ned Nielsen, 1 year)
+before(Prism Shield, Edsel Eaton, 2)
+is(Criminal Bane, 2007)
+is(Ultra Hex, Ned Nielsen)

@@ -1,0 +1,5 @@
+trees, ages, height
+
+Evan's Fir, Nolan's Pine, Roger's Oak, Zeke's Spruce
+79 year, 85 year, 87 year, 94 year
+144 ft, 147 ft, 150 ft, 153 ft

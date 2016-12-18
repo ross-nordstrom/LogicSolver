@@ -1,0 +1,5 @@
+contract length (days), customers, cars
+
+2 day, 3 day, 4 day, 5 day
+Juana Juarez, Penny Perry, Rose Rowland, Vicky Vaughan
+Buick, Fiat, Jeep, Kia

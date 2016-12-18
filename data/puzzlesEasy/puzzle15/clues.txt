@@ -1,0 +1,5 @@
+Penny Perry's reservation is for 3 days.
+Vicky Vaughan's reservation is either the 4 day rental or the Kia reservation.
+Penny Perry's reservation is for a period 1 day longer than the Jeep rental.
+Rose Rowland's rental is for the Kia.
+Penny Perry's reservation is either the 4 day rental or the Buick rental.

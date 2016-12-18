@@ -1,0 +1,5 @@
+names, majors, scholarships
+
+Delores, Martha, Sarah, Vicky
+Biology, Finance, Philosophy, Theology
+$25000, $30000, $35000, $40000

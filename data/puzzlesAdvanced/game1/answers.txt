@@ -1,0 +1,4 @@
+Anna, Finance, 35000
+Delores, Theology, 40000
+Lauren, Physics, 30000
+Nettie, German Poetry, 25000

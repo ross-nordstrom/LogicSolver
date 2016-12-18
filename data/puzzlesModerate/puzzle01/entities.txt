@@ -1,0 +1,5 @@
+names, owners, lengths
+
+Adagio III, Irish Pride, Restless Wave, White Squid
+Ann Alvarado, Betsy Becker, Ernesto Ellis, Hetta Hensley
+22 ft, 25 ft, 28 ft, 31 ft

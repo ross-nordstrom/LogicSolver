@@ -1,0 +1,5 @@
+smaller(Pinkster, Grennel, 5 liters)
+is(Olga, 25)
+not(30, Bistric, Grennel)
+is(xor(Travelore, Leroy), xor(25, 30))
+is(Gene, 35)

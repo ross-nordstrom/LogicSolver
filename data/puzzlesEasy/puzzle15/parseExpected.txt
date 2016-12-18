@@ -1,0 +1,5 @@
+is(Penny Perry, 3 day)
+is(Vicky Vaughan, xor(4 day, Kia))
+longer(Penny Perry, Jeep, 1 day))
+is(Rose Rowland, Kia)
+is(Penny Perry, xor(4 day, Buick))

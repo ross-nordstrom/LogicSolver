@@ -1,0 +1,5 @@
+actors, dates, fees
+
+Bruce, Jim, Shannon, William
+September 1st, September 8th, September 15th, September 29th
+$85000, $100000, $115000, $130000

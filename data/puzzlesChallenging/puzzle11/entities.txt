@@ -1,0 +1,5 @@
+farms, towns, days
+
+Hazelwood, Iron Hill, Meadowgrove, Tall Pines
+Defiance, Milbridge, Paradise, Upper Lake
+June 4th, June 5th, June 6th, June 7th

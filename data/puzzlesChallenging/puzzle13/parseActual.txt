@@ -1,0 +1,5 @@
+is(xor(Van Buren, Nixon), xor(5 minutes, Ed))
+is(8 minutes, xor(Loretta, Monroe))
+is(Andy, 14 minutes)
+is(Monroe, xor(Georgia, 11 minutes))
+is(Ed, Van Buren)

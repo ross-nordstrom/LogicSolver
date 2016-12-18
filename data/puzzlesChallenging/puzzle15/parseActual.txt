@@ -1,0 +1,4 @@
+is(Cal Barron, Nolan)
+is(Cal Barron, xor(2008, Sporrin))
+is(xor(Gostroma, 2010), xor(Irv Horton, Nolan))
+is(xor(2009, 2010), xor(Nolan, Klionne))

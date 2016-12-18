@@ -1,0 +1,4 @@
+is(Qatar, Terrance)
+is(Claude, Jeanne)
+is(3:30 pm, xor(Jamaica, Peru))
+is(Pablo, Peru)

@@ -1,0 +1,5 @@
+streets, mangers, months
+
+Clara Street, Fred Lane, Norway Court, York Court
+Al Anderson, Dawn Daniels, Gail Garrett, Irma Ingram
+April, May, June, July

@@ -1,0 +1,5 @@
+height, trees, ages
+
+144 ft., 147 ft., 150 ft., 153 ft.
+Old Jarvis, Nolan's Pine, Roger's Oak, The Senator
+79, 85, 94, 99

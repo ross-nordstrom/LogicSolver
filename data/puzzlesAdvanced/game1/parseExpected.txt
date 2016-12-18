@@ -1,0 +1,4 @@
+more(Physics, Nettie)
+is(xor(30000, German Poetry), xor(Lauren, Nettie))
+less(Physics, Finance, 5000)
+is(xor(Anna, 40000), xor(Finance, Theology))

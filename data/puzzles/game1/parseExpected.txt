@@ -1,0 +1,4 @@
+is(Dustin, xor(2004, hang gliding))
+after(kayaking, camping, 2 years)
+after(Zachary, kayaking)
+before(camping, James, 2 years)

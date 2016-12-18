@@ -1,0 +1,5 @@
+teams, devices, distances
+
+Mad Mashers, Russets, Spud Chuckers, Super Tubers
+catapult, slingshot, trebuchet, vacuum cannon
+135 ft, 150 ft, 165 ft, 180 ft

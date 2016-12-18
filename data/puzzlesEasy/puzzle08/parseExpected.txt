@@ -1,0 +1,5 @@
+ahead(Ed Ewing, teacher, 1000 votes)
+is(9000, xor(writer, Jed Jarvis))
+is(Jed Jarvis, teacher)
+is(9500, xor(doctor, Jed Jarvis))
+behind(Kelly Kirby, doctor, 500 votes)

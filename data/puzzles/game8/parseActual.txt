@@ -1,0 +1,5 @@
+is(Willie, 181 points)
+is(Evelyn, seventh)
+is(eighth, first)
+is(second, seventh)
+is(Natasha, xor(second, first))

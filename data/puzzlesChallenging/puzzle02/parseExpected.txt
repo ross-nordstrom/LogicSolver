@@ -1,0 +1,4 @@
+after(earthquake, royal wedding, 1 day)
+is(solar eclipse, xor(April 7th, Ned Noble))
+is(xor(April 7th, April 5th), xor(Orin Olsen, solar eclipse))
+after(Linda Lott, Maddy Moore, 2 days)

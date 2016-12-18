@@ -1,0 +1,4 @@
+not(Istryn, HV 491, PLC 120)
+is(Vestor, xor(47 light years, BDF 198))
+is(Istryn, MKP 427)
+is(Vestor, HV 491)

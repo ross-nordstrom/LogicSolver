@@ -1,0 +1,5 @@
+votes, candidates, professions
+
+8500, 9000, 9500, 10000
+Ed Ewing, Fred Francis, Jed Jarvis, Kelly Kirby
+doctor, lawyer, teacher, writer

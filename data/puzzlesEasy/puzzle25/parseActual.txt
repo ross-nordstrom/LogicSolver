@@ -1,0 +1,4 @@
+is(Peter Peck, xor(April 4th, earthquake))
+is(Randy Reid, flooding)
+is(Peter Peck, royal wedding)
+is(Sid Snyder, mass protests)

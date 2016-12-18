@@ -1,0 +1,5 @@
+is(xor($35000, $40000), xor(Philosophy, Martha))
+less(Theology, Philosophy, $5000)
+more(Martha, Finance, $10000)
+more(Theology, Sarah)
+is(Delores, Finance)

@@ -1,0 +1,5 @@
+shorter(Adagio III, Irish Pride, 3)
+is(25 ft, Betsy Becker)
+is(White Squid, xor(25 ft, 31 ft))
+shorter(Ann Alvarado, Betsy Becker)
+is(xor(Irish Pride, 28 ft), xor(Ernesto Ellis, Betsy Becker))

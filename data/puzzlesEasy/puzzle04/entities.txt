@@ -1,0 +1,5 @@
+prices (dollars), companies, cameras
+
+550, 575, 600, 625
+Cober, Lirios, Nectron, Torvia
+DM-5000, G-290, Tela G5, Zenix 2C

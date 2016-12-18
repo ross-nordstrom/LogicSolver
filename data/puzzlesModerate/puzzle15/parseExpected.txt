@@ -1,0 +1,4 @@
+is(xor(2008, 2010), xor(Sporrin, Gilda Frank))
+before(Casputi, Dean Courtis, 1 year)
+is(2011, Gostroma)
+is(Klein, 2010)

@@ -1,0 +1,5 @@
+ad type, directors, responses
+
+billboard, direct mailer, radio spot, tv commercial
+Eddie Evans, Gilda Gamble, Hal Hopkins, Julie Jordan
+625, 775, 825, 1075

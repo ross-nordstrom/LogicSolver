@@ -1,0 +1,5 @@
+is(Foltron, xor(Omnipax, Vexatech))
+is(February, xor(Exatris, Omnipax))
+not(January, Foltron, Vexatech, Worul)
+is(March, Vexatech)
+is(Athios, SpaceZen)

@@ -1,0 +1,4 @@
+Of the patient with the 10:00am appointment and the patient suffering from hip pain, one is Ronnie and the other is Victor.
+The person suffering from migraines has an appointment 1 hour before the patient suffering from foot pain.
+The person suffering from migraines has an appointment sometime after Victor.
+Of Dave and the person with the 12 noon appointment, one is complaining about foot pain and the other is complaining about shingles.

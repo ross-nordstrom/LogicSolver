@@ -1,0 +1,5 @@
+training (weeks), dogs, trainers
+
+6 weeks, 7 weeks, 8 weeks, 9 weeks
+Bailey, Buster, Gizmo, Jake
+Martha, Odette, Stephanie, Teresa

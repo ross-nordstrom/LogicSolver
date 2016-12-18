@@ -1,0 +1,13 @@
+$ ./parse.py -i puzzles/game4/
+link-grammar: Info: Dictionary found at /usr/share/link-grammar/en/4.0.dict
+
+1. Fred Fleming began 1 year before Ned Nielsen.
+   before(Fred Fleming, Ned Nielsen, 1 year)
+2. "Prism Shield" began 2 years before Edsel Eaton.
+   before(Prism Shield, Edsel Eaton, 2 years)
+3. "Criminal Bane" began his crusade in 2007.
+   is(Criminal Bane, 2007)
+4. "Ultra Hex" is Ned Nielsen.
+   is(Ned Nielsen, Ultra Hex)
+
+100% success -  4 of 4 total statements

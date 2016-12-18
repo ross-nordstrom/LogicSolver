@@ -1,0 +1,4 @@
+is(xor(Bowling Alley, Waverly Toys), xor(1974, 1976))
+is(Archer Quest, Aladeen)
+is(Meteor Rise, xor(1974, Hayco Inc))
+is(Pinnefore, Aladeen)

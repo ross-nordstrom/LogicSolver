@@ -1,0 +1,5 @@
+not(Istryn, HV 491, PLC 120)
+is(Vestor, xor(47 light years, BDF 198))
+closer(Istryn, MKP 427)
+is(Vestor, HV 491)
+closer(PLC 120, Rodul, 2 light years)

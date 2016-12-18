@@ -1,0 +1,5 @@
+Square footage, neighborhoods, rents
+
+1100 sq ft, 1225 sq ft, 1350 sq ft, 1475 sq ft
+Capitola, Eagle Grove, La Palma, Monticello
+$825/month, $1100/month, $1525/month, $1600/month

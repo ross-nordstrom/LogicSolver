@@ -1,0 +1,5 @@
+whale, names, lengths
+
+beluga whale, fin whale, right whale, sei whale
+Adam, Brent, Dennis, Herbert
+21 ft, 23 ft, 25 ft, 27 ft

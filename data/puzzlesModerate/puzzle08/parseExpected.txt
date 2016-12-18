@@ -1,0 +1,6 @@
+is(Super Tubers, catapult)
+is(135 ft, xor(vacuum cannon, trebuchet))
+is(xor(150 ft, 165 ft), xor(Super Tubers, trebuchet))
+is(Russets, trebuchet)
+short(Super Tubers, Russets)
+is(vacuum cannon, xor(Mad Mashers, 180 ft))

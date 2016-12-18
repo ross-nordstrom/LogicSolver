@@ -1,0 +1,5 @@
+after(Gail Garrett, Al Anderson)
+is(May, Irma Ingram)
+is(York Court, xor(July, Al Anderson))
+is(Clara Street, April)
+is(xor(June, July), xor(Norway Court, Dawn Daniels))

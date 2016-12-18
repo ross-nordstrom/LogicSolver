@@ -1,0 +1,5 @@
+students, ships, months
+
+Beulah, Darryl, Henrietta, Joy, Yvonne
+Escape, Liberty, Odyssey, Orion, Serenity
+March, April, May, June, July

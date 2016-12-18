@@ -1,0 +1,5 @@
+shorter(Mt. Dawon, Kermit Kramer, 260 feet)
+is(Mt. Norman, 14470)
+is(Mt. Ingram, Gerry Gamble)
+is(14210, xor(Mt. Larsen, Irving Igor))
+shorter(Kermit Kramer, Mt. Ingram)

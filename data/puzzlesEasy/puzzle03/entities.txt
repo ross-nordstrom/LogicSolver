@@ -1,0 +1,5 @@
+Fares, customers, pickup points
+
+$6.50, $9.50, $12.50, $15.50
+Allen, Kate, Max, Vera
+Arctic Building, Camlin Hotel, Moore Mansion, Space Needle

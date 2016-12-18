@@ -1,0 +1,4 @@
+North Bridge, girder, 8500 ft 
+Avery Bridge, suspension, 10000 ft   
+Gorem Bridge, truss, 11500 ft   
+Bay Bridge, cantilever, 13000 ft   

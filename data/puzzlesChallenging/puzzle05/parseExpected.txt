@@ -1,0 +1,4 @@
+is(xor(Eddie Evans, Gilda Gamble), xor(direct mailer, 1075))
+not(billboard, 775, Gilda Gamble)
+fewer(radio spot, Julie Jordan, 150)
+is(tv commercial, xor(Hal Hopkins, 775))

@@ -1,0 +1,4 @@
+is(xor(Bowling Alley, Waverly Toys), xor(1974, 1976))
+after(Archer Quest, Aladeen, 1)
+is(Meteor Rise, xor(1974, Hayco Inc))
+before(Pinnefore, Aladeen, 1)

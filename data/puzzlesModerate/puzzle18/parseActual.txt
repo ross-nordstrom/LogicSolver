@@ -1,0 +1,4 @@
+is(Charlie, Nelson)
+is(xor(Frederick, 10:00am), xor(Nelson, Orlando))
+is(11:00am, xor(Ira, Karla))
+is(Nelson, Ira)

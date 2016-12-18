@@ -1,0 +1,5 @@
+older(Utah, Illinois)
+is(Shari, xor(Illinois, South Dakota))
+younger(Georgia, Illinois, 1)
+younger(Tim, Noel)
+is(xor(Jason, Tim), xor(110 years, Utah))

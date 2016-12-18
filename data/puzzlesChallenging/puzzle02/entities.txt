@@ -1,0 +1,5 @@
+reporters, stories, days
+
+Linda Lott, Maddy Moore, Ned Noble, Orin Olsen
+earthquake, Olympic games, royal wedding, solar eclipse
+April 4th, April 5th, April 6th, April 7th

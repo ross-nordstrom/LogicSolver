@@ -1,0 +1,5 @@
+Price, AC units, capacities
+
+375, 440, 505, 570
+Binson C40, Chiller Z, Freezon Flux, Z-Free XL
+5000 BTUs, 10000 BTUs, 20000 BTUs, 25000 BTUs

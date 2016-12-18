@@ -1,0 +1,4 @@
+is(xor(2008, 2010), xor(Sporrin, Gilda Frank))
+is(Casputi, Dean Courtis)
+is(2011, Gostroma)
+is(Klein, 2010)

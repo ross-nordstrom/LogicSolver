@@ -1,0 +1,5 @@
+machines, companies, years
+
+Aladeen, Archer Quest, Bowling Alley, Meteor Rise
+Hayco Inc, Pinnefore, Tarco Inc, Waverly Toys
+1974, 1975, 1976, 1977

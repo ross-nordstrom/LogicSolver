@@ -1,0 +1,5 @@
+is(October 8, sailboat)
+before(bowling pin, Keller)
+is(Massey, October 8)
+is(turtle, xor(Becker, Massey))
+after(Becker, rocket ship, 1 day)

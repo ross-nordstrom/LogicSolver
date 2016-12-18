@@ -1,0 +1,5 @@
+planets, stars, distances
+
+Cheelia, Ereph, Llyrak, Xidat
+BDF 198, HV 491, MKP 427, VJD 913
+41 light years, 43 light years, 45 light years, 47 light years

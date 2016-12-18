@@ -1,0 +1,4 @@
+is(alfalfa, Midge Mintz)
+less(lemon blossom, Linda Lynn, 2 dollars)
+less(Midge Mintz, lemon blossom, 1 dollar)
+is(sage, Keith Koch)

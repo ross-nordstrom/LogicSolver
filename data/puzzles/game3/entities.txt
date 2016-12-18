@@ -1,0 +1,5 @@
+countries, gold medals, silver medals
+
+Namibia, Paraguay, Russia, Turkmenistan
+1 gold, 2 gold, 3 gold, 4 gold
+1 silver, 2 silver, 8 silver, 12 silver

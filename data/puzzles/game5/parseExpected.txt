@@ -1,0 +1,5 @@
+less(75 million, pilodontus, 500)
+is(senosaurus, 85 million)
+less(75 million, 78 million, 500)
+less(75 million, archadon)
+more(69 million, 78 million, 250)

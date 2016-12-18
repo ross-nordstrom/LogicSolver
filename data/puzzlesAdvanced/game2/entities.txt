@@ -1,0 +1,6 @@
+miners, claims, locations, ounces
+
+Ben Barron, Dilbert Duke, Fred Fletcher, Gil Gonzalez
+Belle Hart, Glacier Grove, Laurel Ridge, York River
+California, Colorado, New Mexico, Oregon
+11, 14, 17, 20

@@ -1,0 +1,5 @@
+Of the 153 ft. tree and the 85 year-old tree, one is Roger's Oak and the other is Nolan's Pine.
+Zeke's Spruce is 94 years old.
+Evan's Fir is 6 feet shorter than Zeke's Spruce.
+Evan's Fir is 3 feet shorter than Roger's Oak.
+Evan's Fir is either the 94 year-old tree or the 79 year-old tree.

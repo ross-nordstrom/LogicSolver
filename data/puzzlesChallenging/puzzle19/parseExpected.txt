@@ -1,0 +1,5 @@
+is(1913, Girl at Sea)
+after(Lost in Time, Willow Bend)
+is(Jenadije, xor(Girl at Sea, 1897))
+after(Quekal, Jenadije, 8 years)
+is(xor(Xesobe, Jenadije), xor(1897, Hoxley Hills))

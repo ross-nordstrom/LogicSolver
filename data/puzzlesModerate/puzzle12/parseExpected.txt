@@ -1,0 +1,4 @@
+fewer(Berkshire, Hampshire, 3000)
+more(Essex, Charles City)
+is(xor(28000, 37000), xor(Essex, Luther))
+fewer(Quasqueton, Nantucket, 3000)

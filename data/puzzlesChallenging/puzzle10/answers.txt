@@ -1,0 +1,4 @@
+pilodontus, 78 million, $500  
+verasaurus, 85 million, $750  
+rotosaurus, 75 million, $1000 
+gigasaurus, 69 million, $1250 

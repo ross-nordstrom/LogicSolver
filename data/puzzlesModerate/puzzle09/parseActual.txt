@@ -1,0 +1,4 @@
+closer(BDF 198, Xidat, 4)
+is(Ereph, HV 491)
+closer(BDF 198, Llyrak, 2)
+is(xor(Xidat, Cheelia), xor(MKP 427, 45 light years))

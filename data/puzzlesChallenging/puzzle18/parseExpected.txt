@@ -1,0 +1,4 @@
+is(xor(10:00am, hip pain), xor(Ronnie, Victor))
+before(migraines, foot pain, 1 hour)
+after(migraines, Victor)
+is(xor(Dave, 12 noon), xor(foot pain, shingles))

@@ -1,0 +1,5 @@
+artists, paintings, years
+
+Arim Aleen, Jenadije, Quekal, Xesobe
+Girl at Sea, Hoxley Hills, Lost in Time, Willow Bend
+1897, 1905, 1913, 1921

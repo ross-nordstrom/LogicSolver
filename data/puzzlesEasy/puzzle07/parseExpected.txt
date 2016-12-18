@@ -1,0 +1,4 @@
+deeper(second, seventh, 6 meters)
+is(Brit Bradley, 107 meters)
+is(Hill Harvey, 104 meters)
+not(Gumbo Giles, seventh, 107 meters, first)

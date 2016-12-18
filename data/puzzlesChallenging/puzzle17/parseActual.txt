@@ -1,0 +1,5 @@
+is(xor(economics, Betty Brewer), xor(1976, 1964))
+is(1964, xor(Ada Alvarez, economics))
+is(chemistry, literature)
+before(Fay Ferguson, Mandy Marsh)
+is(medicine, xor(1968, Ada Alvarez))

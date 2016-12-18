@@ -1,0 +1,4 @@
+500, mirasaurus, 75 million
+750, senosaurus, 85 million
+1000, pilodontus, 78 million
+1250, archadon, 69 million

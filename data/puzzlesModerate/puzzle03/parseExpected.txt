@@ -1,0 +1,5 @@
+is(North Bridge, girder)
+longer(Gorem Bridge, girder, 3000)
+is(xor(Avery Bridge, North Bridge), xor(suspension, 8500 ft))
+shorter(Gorem Bridge, Bay Bridge, 1500)
+is(11500 ft, xor(truss, Bay Bridge))

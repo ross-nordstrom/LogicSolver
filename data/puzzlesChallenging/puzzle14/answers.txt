@@ -1,0 +1,4 @@
+Kerry, 4 GB, 128 GB   
+Nathaniel, 1 GB, 256 GB   
+Philip, 2 GB, 384 GB   
+Greg, 3 GB, 512 GB   

@@ -1,0 +1,3 @@
+not(14, pitch belly, black neck, Methuselah)
+is(xor(32, two rimmed), xor(Methuselah, Yoda))
+younger(Toredo, pitch belly, 36)

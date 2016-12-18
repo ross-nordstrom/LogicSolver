@@ -1,0 +1,5 @@
+is(Luther, 49)
+is(Bertha, xor(56, smoked pork))
+fewer(Hattie, turkey soup, 7)
+is(42, cashew tofu)
+fewer(cajun chili, Bertha, 7)

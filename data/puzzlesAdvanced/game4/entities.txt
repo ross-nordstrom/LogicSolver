@@ -1,0 +1,6 @@
+names, prime ministers, grades, lengths
+
+Anita, Colleen, Hazel, Milton, Perry, Theodore, Zachary
+Balfour, Blair, Churchill, Disraeli, Eden, North, Pitt
+A, A-, B+, B-, C+, C-, D
+6 minutes, 8 minutes, 10 minutes, 12 minutes, 14 minutes, 16 minutes, 18 minutes

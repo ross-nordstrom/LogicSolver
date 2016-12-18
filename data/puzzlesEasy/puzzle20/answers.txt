@@ -1,0 +1,5 @@
+45, Anthony, raft spider
+60, Olga, wolf spider
+75, Lonnie, whip spider
+90, Tim, redback
+

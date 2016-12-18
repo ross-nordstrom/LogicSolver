@@ -1,0 +1,4 @@
+is(Bladescape, March)
+not(April, Ira, Planets Align, Yolanda)
+is(Vendetta, xor(Ira, February))
+is(January, Lynette)

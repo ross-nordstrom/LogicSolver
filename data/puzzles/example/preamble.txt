@@ -1,0 +1,6 @@
+Howie, a professional nature guide, is taking a group
+of campers on a one-week backpacking trip through the
+Gros Ventre Wilderness in Wyoming. Using only
+the clues below, help Howie match each camper to
+their bag by determining the size (in liters),
+manufacturer and color of each.

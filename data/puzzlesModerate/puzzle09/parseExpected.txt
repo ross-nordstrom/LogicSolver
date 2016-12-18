@@ -1,0 +1,4 @@
+closer(BDF 198, Xidat, 4)
+closer(Ereph, HV 491, 2)
+closer(BDF 168, Llyrak, 2)
+not(Xidat, Cheelia, MKP 427, 45 light years)

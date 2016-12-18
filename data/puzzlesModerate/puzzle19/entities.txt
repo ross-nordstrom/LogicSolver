@@ -1,0 +1,5 @@
+machines, companies, years
+
+Archer Quest, Bowling Alley, Disco Mania, Meteor Rise
+Dow Games, Hayco Inc, Pinnefore, Tarco Inc
+1974, 1975, 1976, 1977

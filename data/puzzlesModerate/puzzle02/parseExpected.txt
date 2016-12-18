@@ -1,0 +1,5 @@
+less(William, September 8th, 15000)
+is(William, xor($115000, September 1st))
+more(September 1st, Jim, 15000)
+is($85000, September 15th)
+is(Bruce, September 29th)
